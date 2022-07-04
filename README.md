@@ -16,4 +16,4 @@ Una vez completado los pasos anteriores, su uso es igual que cualquie otra formu
 - =NUMEROATEXTO(12990) [doce mil novecientos noventa]
 - =NUMEROATEXTO(12*1500) [dieciocho mil]
 
-[SI TE SIRVIÓ, REGÁLAME UN CAFÉ](https://mpago.la/2w4gn5z) -  [O UNA ENERGÉTICA](https://mpago.la/2w4gn5z)
+[SI TE SIRVIÓ, REGÁLAME UN CAFÉ](https://mpago.la/2w4gn5z) -  [O UNA ENERGÉTICA](https://mpago.la/2GR3teL)
